@@ -1,1 +1,8 @@
 /* styles go here */
+.field {
+  padding-bottom: 20px;
+}
+
+.elem:not(:last-child) {
+  padding-bottom: 10px;
+}
